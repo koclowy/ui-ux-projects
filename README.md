@@ -29,7 +29,7 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
 
 ---
 
-## Tools I Use
+## ⊹₊⟡⋆ Tools I Use
 
 - **Design & Prototyping:** Figma, Canva  
 - **Illustration & Art:** Procreate, Pixel Studio  
@@ -38,7 +38,7 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
 
 ---
 
-## Projects Overview
+## ⊹₊⟡⋆ Projects Overview
 
 ### 1. OneMinute – Survival Game Interface
 - **Type:** Game UI (JavaFX)  
@@ -91,7 +91,7 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
 
 ---
 
-## Repository Structure
+## ⊹₊⟡⋆ Repository Structure
 
 ```text
 ui-ux-projects/
