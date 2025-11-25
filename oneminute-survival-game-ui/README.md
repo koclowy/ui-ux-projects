@@ -1,4 +1,4 @@
-# ⏱️ OneMinute – Survival Strategy Game (UI/UX Case Study)
+# OneMinute – Survival Strategy Game (UI/UX Case Study)
 
 **OneMinute** is a survival strategy game UI inspired by navigating a pandemic lockdown.  
 This project showcases the complete interface design process — from concept sketches and hand-drawn artwork to final UI layouts and interactions implemented in JavaFX.
@@ -99,17 +99,13 @@ Built clickable prototype in Figma with:
 
 ## 🖼 Screens
 
-> Add your exported screens to:  
-> `oneminute-survival-game-ui/screenshots/`
-
-```html
 <p align="center">
-  <img src="screenshots/start-screen.png" width="45%">
-  <img src="screenshots/shopping.png" width="45%">
+  <img src="/screenshots/cashier.png" width="45%">
+  <img src="/screenshots/shopping.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="screenshots/journal.png" width="45%">
-  <img src="screenshots/lockdown-home.png" width="45%">
+  <img src="/screenshots/journal.png" width="45%">
+  <img src="screenshots/home.png" width="45%">
 </p>
 
