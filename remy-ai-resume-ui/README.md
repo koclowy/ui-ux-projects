@@ -7,8 +7,7 @@
 **Remy** is an AI-powered career platform designed to help job seekers generate personalised, job-specific resumes while discovering their strengths through guided profiling and chatbot interactions.  
 This UI/UX case study showcases the complete design flow — from research to wireframes, high-fidelity UI, and prototypes.
 
-🔗 **[View Business Concept Documentation](/remy-ai-resume-ui/docs/business_plan.pdf)**  
-🔗 **[Figma Prototype](https://www.figma.com/design/duKUYKDg1UqTG84bRTsEFP/Project-Remy?node-id=0-1&t=6dZ6Q7ZhzKaTexP1-1)** 
+🔗 **[View Business Concept Documentation](/remy-ai-resume-ui/docs/business_plan.pdf)**  🔗 **[View Figma File](https://www.figma.com/design/duKUYKDg1UqTG84bRTsEFP/Project-Remy?node-id=0-1&t=6dZ6Q7ZhzKaTexP1-1)** 🔗 **[View Figma Prototype](https://www.figma.com/proto/duKUYKDg1UqTG84bRTsEFP/Project-Remy?page-id=68%3A554&node-id=85-104&viewport=-5%2C347%2C0.09&t=42tAI7qM48KkZf15-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=85%3A104)**
 
 ---
 
