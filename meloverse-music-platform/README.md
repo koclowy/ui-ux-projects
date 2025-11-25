@@ -7,8 +7,7 @@
 **Meloverse** is a personalised, artist-centric music streaming UI that redefines how users connect with the music and artists they love.  
 This project showcases the full interface design process: UX research, wireframes, UI design, interactive flows, and final high-fidelity mockups.
 
-🔗 **[[Link to Project Code Repository](https://github.com/koclowy/web-development-projects/tree/main/TheArtists)]**  
-🔗 **[[View Figma Prototype](https://www.figma.com/design/IDHZJqQhWZOEHGPyAxas78/Project-Meloverse?node-id=62-129&t=Ecqo3ctWAZKjeZFy-1)]**  
+🔗 **[Link to Project Code Repository](https://github.com/koclowy/web-development-projects/tree/main/TheArtists)**  🔗 **[View Figma Prototype](https://www.figma.com/design/IDHZJqQhWZOEHGPyAxas78/Project-Meloverse?node-id=62-129&t=Ecqo3ctWAZKjeZFy-1)**  
 
 ---
 
