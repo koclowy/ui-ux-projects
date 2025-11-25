@@ -4,33 +4,34 @@
 
 <p align="center">
   <!-- Figma -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+
   <!-- Canva -->
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  
+  <img src="https://skillicons.dev/icons?i=canva&theme=dark" />
+
   <!-- Procreate -->
-  <img src="https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white" />
-  
-  <!-- Pixel Art / Pixel Studio (generic) -->
-  <img src="https://img.shields.io/badge/Pixel%20Art-4B0082?style=for-the-badge&logoColor=white" />
-  
+  <img src="https://skillicons.dev/icons?i=procreate&theme=dark" />
+
+  <!-- Pixel Art / Pixel Studio -->
+  <img src="https://skillicons.dev/icons?i=pixelart&theme=dark" />
+
   <!-- Draw.io -->
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-  
+  <img src="https://skillicons.dev/icons?i=drawio&theme=dark" />
+
   <!-- HTML5 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" />
+
   <!-- CSS3 -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" />
+
   <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
-  <!-- JavaFX / Java (generic) -->
-  <img src="https://img.shields.io/badge/JavaFX-FF7800?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" />
+
+  <!-- Java (for JavaFX) -->
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
 </p>
 
+---
 
 #  UI & UX Projects
 
