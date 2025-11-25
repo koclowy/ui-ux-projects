@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/remy-banner.png" width="100%">
+  <img src="screenshots/logo.png" width="100%">
 </p>
 
 # Remy – AI Resume Builder Platform (UI/UX Case Study)
@@ -115,13 +115,13 @@ Prototype demonstrates:
 ## Screens
 
 <p align="center">
-  <img src="screenshots/onboarding.png" width="45%">
-  <img src="screenshots/profile-builder.png" width="45%">
+  <img src="screenshots/landingPage.png" width="45%">
+  <img src="screenshots/profileBuilder.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="screenshots/resume-preview.png" width="45%">
-  <img src="screenshots/chatbot.png" width="45%">
+  <img src="screenshots/meDiscovery.png" width="45%">
+  <img src="screenshots/myResumeStudio.png" width="45%">
 </p>
 
 ---
@@ -164,17 +164,4 @@ Future improvements include:
 └─ branding/ # Logos, colours, typography
 ```
 ---
-
----
-
-## 🔗 Related Links
-
-Business Plan Documentation (Uploaded):  
-**../docs/business_plan.pdf**
-
-Figma Prototype (Insert link):  
-**https://www.figma.com/...**
-
----
-
 
