@@ -108,11 +108,6 @@ Screens include:
   <img src="screenshots/landingPage.png" width="45%">
 </p>
 
-<p align="center">
-  <img src="screenshots/profile.png" width="45%">
-  <img src="screenshots/zones.png" width="45%">
-</p>
-
 ---
 
 ## Learnings
