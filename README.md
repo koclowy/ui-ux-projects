@@ -6,18 +6,6 @@
   <!-- Figma -->
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
-  <!-- Canva -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" />
-
-  <!-- Procreate -->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="48" />
-
-  <!-- Pixel Art / Pixel Studio (generic pixel icon) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="48" />
-
-  <!-- Draw.io / Diagrams.net -->
-  <img src="https://www.vectorlogo.zone/logos/diagramsnet/diagramsnet-icon.svg" width="48" />
-
   <!-- HTML5 -->
   <img src="https://skillicons.dev/icons?i=html&theme=dark" />
 
