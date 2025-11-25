@@ -8,8 +8,9 @@
 
 This project showcases the full design lifecycle — **research → system architecture → user flows → high-fidelity UI → dashboard visualization**, all informed by real IoT requirements.
 
-🔗 **[View Figma Prototype](#)**  
-🔗 **[View IoT Architecture Documentation](/docs/Group10_Assessment02%20(1).pdf)**  
+🔗 **[View Figma Prototype](https://www.figma.com/proto/73r9f7dUAbqF3gHYwSBsat/IoT-Assignment-3?page-id=0%3A1&node-id=1-1596&viewport=-179%2C422%2C0.28&t=dFyfo5CnDwfgex8Q-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A1585&show-proto-sidebar=1)**
+🔗 **[View Figma File]([/docs/Group10_Assessment02%20(1).pdf](https://www.figma.com/design/73r9f7dUAbqF3gHYwSBsat/IoT-Assignment-3?node-id=37-1475&t=A7tQNQqhnlF64R06-1))** 
+🔗 **[View IoT Architecture Documentation](/docs/)**  
 
 ---
 
