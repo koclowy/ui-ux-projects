@@ -113,10 +113,6 @@ Screens include:
   <img src="screenshots/zones.png" width="45%">
 </p>
 
-<p align="center">
-  <img src="screenshots/homePage_1.png" width="55%">
-</p>
-
 ---
 
 ## Learnings
