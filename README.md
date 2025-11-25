@@ -21,7 +21,7 @@
 
 ---
 
-#  UI & UX Projects
+#  ⊹₊⟡⋆ UI & UX Projects ⊹₊⟡⋆
 
 A curated collection of my UI and UX design work across web applications, mobile apps, games, IoT systems, and startup concepts.  
 This repository brings together my **Figma designs**, **hand-drawn illustrations**, **prototypes**, and **interface concepts** that support my development projects and academic assignments.
