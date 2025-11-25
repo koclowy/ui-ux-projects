@@ -1,4 +1,38 @@
-# 🎨 UI & UX Projects
+<p align="center">
+  <img src="/assets/banner.png" alt="UI & UX Projects Banner" width="100%">
+</p>
+
+<p align="center">
+  <!-- Figma -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  
+  <!-- Canva -->
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  
+  <!-- Procreate -->
+  <img src="https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white" />
+  
+  <!-- Pixel Art / Pixel Studio (generic) -->
+  <img src="https://img.shields.io/badge/Pixel%20Art-4B0082?style=for-the-badge&logoColor=white" />
+  
+  <!-- Draw.io -->
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+  
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <!-- JavaFX / Java (generic) -->
+  <img src="https://img.shields.io/badge/JavaFX-FF7800?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+
+#  UI & UX Projects
 
 A curated collection of my UI and UX design work across web applications, mobile apps, games, IoT systems, and startup concepts.  
 This repository brings together my **Figma designs**, **hand-drawn illustrations**, **prototypes**, and **interface concepts** that support my development projects and academic assignments.
