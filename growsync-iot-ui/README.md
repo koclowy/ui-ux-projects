@@ -114,7 +114,7 @@ Screens include:
 </p>
 
 <p align="center">
-  <img src="screenshots/homePage_1.png" width="45%">
+  <img src="screenshots/homePage_1.png" width="55%">
 </p>
 
 ---
