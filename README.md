@@ -18,15 +18,7 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
 
 ## 📂 Projects Overview
 
-### 1. Meloverse – Music Streaming Web UI
-- **Type:** Web app UI/UX  
-- **Tools:** Figma, Procreate, Draw.io  
-- **Highlights:** Landing page, discovery page, artist profiles, player controls, responsive layout concepts.  
-- **Folder:** `meloverse-music-platform/`
-
----
-
-### 2. OneMinute – Survival Game Interface
+### 1. OneMinute – Survival Game Interface
 - **Type:** Game UI (JavaFX)  
 - **Tools:** Procreate, Pixel Studio, Figma, Draw.io  
 - **Highlights:** Hand-drawn characters, lockdown-day counter, shopping screen, journal choices, win/defeat screens, fully illustrated interface.  
@@ -34,26 +26,18 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
 
 ---
 
-### 3. ClimateEducationApp – Educational App Screens
-- **Type:** Desktop educational UI  
-- **Tools:** Figma, Draw.io  
-- **Highlights:** Simple navigation for topics like global warming, greenhouse gases, pollution, and fun facts.  
-- **Folder:** `climate-education-app-ui/`
-
----
-
-### 4. GrowSync – IoT Smart Agriculture System UI
+### 2. GrowSync – IoT Smart Agriculture System UI
 - **Type:** IoT System Dashboard (Figma UI)  
 - **Tools:** Figma, Draw.io  
-- **Highlights:**   
+- **Highlights:**  
   - Sensor dashboards (temperature, humidity, soil pH, gas levels, pest detection)  
-  - Actuator control UI (irrigation, ventilation, pH adjustment)   
+  - Actuator control UI (irrigation, ventilation, pH adjustment)  
   - Trend analytics and ML-powered forecasting concepts  
 - **Folder:** `growsync-iot-ui/`
 
 ---
 
-### 5. Remy – AI Resume Builder Startup (Ideating Project)
+### 3. Remy – AI Resume Builder Startup (Ideating Project)
 - **Type:** AI-based web app UI/UX  
 - **Tools:** Figma  
 - **Highlights:**  
@@ -65,15 +49,23 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
 
 ---
 
-### 6. Replate – Sustainable Food Redistribution Mobile UI
+### 4. Replate – Sustainable Food Redistribution Mobile UI
 - **Type:** Mobile UI/UX (HCI Project)  
 - **Tools:** Figma, Draw.io  
 - **Highlights:**  
   - Location-based food discovery  
   - Fast listing interface for sellers  
-  - Integration of computer-vision freshness verification   
+  - Integration of computer-vision freshness verification  
   - SDG-aligned design (SDG12, SDG2, SDG11)  
 - **Folder:** `replate-mobile-ui/`
+
+---
+
+### 5. Meloverse – Music Streaming Web UI
+- **Type:** Web app UI/UX  
+- **Tools:** Figma, Procreate, Draw.io  
+- **Highlights:** Landing page, discovery page, artist profiles, player controls, responsive layout concepts.  
+- **Folder:** `meloverse-music-platform/`
 
 ---
 
@@ -83,11 +75,10 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
 ui-ux-projects/
 ├─ README.md
 │
-├─ theartists-music-platform/
 ├─ oneminute-survival-game-ui/
-├─ climate-education-app-ui/
 ├─ growsync-iot-ui/
 ├─ remy-ai-resume-ui/
 ├─ replate-mobile-ui/
+├─ meloverse-music-platform/
 │
 └─ other-ui-concepts/     # Small experiments, unused concepts, drafts
