@@ -11,7 +11,7 @@ This project showcases the complete interface design process — from concept sk
 
 ---
 
-## 🎨 Overview
+##  Overview
 
 OneMinute is a game interface designed to immerse players in managing a family’s survival during a 30-day lockdown. The UI blends **pixel-art aesthetics**, **hand-drawn illustrations**, and **JavaFX functionality** to create an emotionally engaging experience.
 
@@ -113,3 +113,50 @@ Built clickable prototype in Figma with:
   <img src="screenshots/home.png" width="45%">
 </p>
 
+---
+
+## Learnings
+
+From this project, I learned how to:
+
+- Build UI systems that support narrative gameplay
+- Communicate urgency using layout, colour, and timing
+- Create pixel-art styled UI elements
+- Design multi-scene flows for JavaFX integration
+- Balance visual style with usability
+- Structure design files for implementation
+
+---
+
+## Next Steps
+
+- Improve readability for journal paragraphs
+- Add animations for character mood changes
+- Create sound feedback icons (muted / unmuted)
+- Add difficulty selection UI
+- Explore mobile adaptation for the game
+
+---
+## File Structure
+
+```
+oneminute-survival-game-ui/
+├─ README.md
+│
+├─ design/        #  all screens
+├─ docs/          #  documentation
+├─ inspiration/   #  inspiration for each element design (mainly sourced from pinterest)
+├─ screenshots/   #  screenshots taken from the application
+└─ storyboard/    #  storyboard of the game
+
+```
+
+## 🔗 Related Links
+
+🎮 JavaFX Code Implementation:
+**[Link to Game Code Respository](https://github.com/koclowy/java-projects/tree/main/Advanced%20Programming/oneminute)**
+
+🧪 Figma Prototype:
+**[Link to Figma File](https://www.figma.com/design/t0ow6C5nExSTJR5hINZfo0/project-oneminute?node-id=93-80&t=0JU7awuyY9uDSK3v-1)**
+
+---
