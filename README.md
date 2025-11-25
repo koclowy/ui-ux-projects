@@ -29,7 +29,7 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
 
 ---
 
-## 🧰 Tools I Use
+## Tools I Use
 
 - **Design & Prototyping:** Figma, Canva  
 - **Illustration & Art:** Procreate, Pixel Studio  
@@ -38,13 +38,13 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
 
 ---
 
-## 📂 Projects Overview
+## Projects Overview
 
 ### 1. OneMinute – Survival Game Interface
 - **Type:** Game UI (JavaFX)  
 - **Tools:** Procreate, Pixel Studio, Figma, Draw.io  
 - **Highlights:** Hand-drawn characters, lockdown-day counter, shopping screen, journal choices, win/defeat screens, fully illustrated interface.  
-- **Folder:** `oneminute-survival-game-ui/`
+- **Folder:** [oneminute](/oneminute-survival-game-ui/)
 
 ---
 
@@ -55,7 +55,7 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
   - Sensor dashboards (temperature, humidity, soil pH, gas levels, pest detection)  
   - Actuator control UI (irrigation, ventilation, pH adjustment)  
   - Trend analytics and ML-powered forecasting concepts  
-- **Folder:** `growsync-iot-ui/`
+- **Folder:** [growsync](/growsync-iot-ui/)
 
 ---
 
@@ -67,7 +67,7 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
   - Resume generation screens based on job descriptions  
   - Dashboard for job matching insights  
   - Clean, inclusive, and accessible UI design  
-- **Folder:** `remy-ai-resume-ui/`
+- **Folder:** [remy](/remy-ai-resume-ui/)
 
 ---
 
@@ -79,7 +79,7 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
   - Fast listing interface for sellers  
   - Integration of computer-vision freshness verification  
   - SDG-aligned design (SDG12, SDG2, SDG11)  
-- **Folder:** `replate-mobile-ui/`
+- **Folder:** [replate](/replate-mobile-ui/)
 
 ---
 
@@ -87,11 +87,11 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
 - **Type:** Web app UI/UX  
 - **Tools:** Figma, Procreate, Draw.io  
 - **Highlights:** Landing page, discovery page, artist profiles, player controls, responsive layout concepts.  
-- **Folder:** `meloverse-music-platform/`
+- **Folder:** [meloverse](/meloverse-music-platform/)
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 ui-ux-projects/
