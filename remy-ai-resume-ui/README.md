@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/logo.png" width="50%">
+  <img src="screenshots/logo.png" width="45%">
 </p>
 
 # Remy – AI Resume Builder Platform (UI/UX Case Study)
