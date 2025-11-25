@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/growsync-banner.png" width="100%">
+  <img src="screenshots/logo.png" width="100%">
 </p>
 
 # GrowSync – Smart Agriculture IoT System UI (UI/UX Case Study)
@@ -105,13 +105,16 @@ Screens include:
 ## Screens
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="45%">
-  <img src="screenshots/ph-control.png" width="45%">
+  <img src="screenshots/landingPage.png" width="100%">
 </p>
 
 <p align="center">
-  <img src="screenshots/alert.png" width="45%">
-  <img src="screenshots/analytics.png" width="45%">
+  <img src="screenshots/profile.png" width="45%">
+  <img src="screenshots/zones.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/homePage_1.png" width="45%">
 </p>
 
 ---
