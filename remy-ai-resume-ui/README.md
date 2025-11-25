@@ -157,11 +157,11 @@ Future improvements include:
 ```
 ├─ README.md
 │
-├─ design/ # Wireframes & UI screens
-├─ docs/ # Business plan & research documentation
+├─ design/      # Wireframes & UI screens
+├─ docs/        # Business plan & research documentation
 ├─ screenshots/ # Exported UI visuals for README
-├─ draft/ # Flowcharts, user journeys, system diagrams
-└─ branding/ # Logos, colours, typography
+├─ draft/       # Other designs
+└─ branding/    # Logos & marketing
 ```
 ---
 
