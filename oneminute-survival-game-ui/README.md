@@ -97,15 +97,15 @@ Built clickable prototype in Figma with:
 
 ---
 
-## 🖼 Screens
+## Screens
 
 <p align="center">
-  <img src="/screenshots/cashier.png" width="45%">
-  <img src="/screenshots/shopping.png" width="45%">
+  <img src="screenshots/cashier.png" width="45%">
+  <img src="screenshots/shopping.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="/screenshots/journal.png" width="45%">
+  <img src="screenshots/journal.png" width="45%">
   <img src="screenshots/home.png" width="45%">
 </p>
 
