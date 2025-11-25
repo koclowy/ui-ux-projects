@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/logo.png" width="100%">
+  <img src="screenshots/logo.png" width="50%">
 </p>
 
 # GrowSync – Smart Agriculture IoT System UI (UI/UX Case Study)
