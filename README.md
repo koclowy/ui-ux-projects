@@ -18,11 +18,11 @@ I design interfaces that are **visually cohesive**, **human-centred**, and groun
 
 ## 📂 Projects Overview
 
-### 1. TheArtists – Music Streaming Web UI
+### 1. Meloverse – Music Streaming Web UI
 - **Type:** Web app UI/UX  
 - **Tools:** Figma, Procreate, Draw.io  
 - **Highlights:** Landing page, discovery page, artist profiles, player controls, responsive layout concepts.  
-- **Folder:** `theartists-music-platform/`
+- **Folder:** `meloverse-music-platform/`
 
 ---
 
