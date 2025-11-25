@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="screenshots/logo.png" width="100%">
+</p>
+
 # OneMinute – Survival Strategy Game (UI/UX Case Study)
 
 **OneMinute** is a survival strategy game UI inspired by navigating a pandemic lockdown.  
@@ -23,7 +27,7 @@ The UI flow includes:
 
 ---
 
-## 🧑‍💻 Role & Tools
+## Role & Tools
 
 ### **My Role**
 - UI/UX Designer  
@@ -41,7 +45,7 @@ The UI flow includes:
 
 ---
 
-## 📝 Problem / Design Brief
+## Problem / Design Brief
 
 During the pandemic, people struggled with resource management, anxiety, and uncertain decision-making.  
 **The goal:**  
@@ -56,7 +60,7 @@ The UI must:
 
 ---
 
-## 🎯 Target Users
+## Target Users
 
 - **Casual players** who enjoy survival and narrative games  
 - **Students/Educators** studying pandemic decision-making  
