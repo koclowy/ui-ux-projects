@@ -105,7 +105,7 @@ Screens include:
 ## Screens
 
 <p align="center">
-  <img src="screenshots/landingPage.png" width="100%">
+  <img src="screenshots/landingPage.png" width="45%">
 </p>
 
 <p align="center">
