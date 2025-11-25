@@ -3,12 +3,7 @@
 **OneMinute** is a survival strategy game UI inspired by navigating a pandemic lockdown.  
 This project showcases the complete interface design process — from concept sketches and hand-drawn artwork to final UI layouts and interactions implemented in JavaFX.
 
-🔗 **Interactive Figma Prototype:**  
-*(insert your real Figma link)*  
-👉 https://www.figma.com/...
-
-🔗 **Link to Game Code Repository:**  
-👉 https://github.com/yourusername/AdvancedProgramming-OneMinute
+🔗**[Link to Game Code Respository](https://github.com/koclowy/java-projects/tree/main/Advanced%20Programming/oneminute)**
 
 ---
 
