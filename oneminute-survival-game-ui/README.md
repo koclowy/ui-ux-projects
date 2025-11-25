@@ -69,7 +69,7 @@ The UI must:
 
 ---
 
-## 🧪 Design Process
+## Design Process
 
 ### 1. **Research**
 - Collected references from survival games (60 Seconds!, Sheltered)
